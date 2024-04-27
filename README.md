@@ -9,7 +9,7 @@ Lego scripts, demonstrations of how to crack / secure stuff
 # What do I know?
 
 - [Lua (4~ years)](https://www.lua.org/)
-- [PHP (3~ years)](https://www.lua.org/)
+- [PHP (3~ years)](https://www.php.net/)
 - [Node JS (3~ years)](https://nodejs.org/en)
 - [C# (2~ years)](https://dotnet.microsoft.com/en-us/languages/csharp)
 
