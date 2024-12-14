@@ -12,18 +12,12 @@ Lego scripts, demonstrations of how to crack / secure stuff
 - [PHP (3~ years)](https://www.php.net/)
 - [Node JS (3~ years)](https://nodejs.org/en)
 - [C# (2~ years)](https://dotnet.microsoft.com/en-us/languages/csharp)
+- [Python (newbie)](https://www.python.org/)
+- [C++ (i know how to read it 😭)](https://learn.microsoft.com/en-us/cpp/overview/visual-cpp-in-visual-studio?view=msvc-170)
 
 - HTML
 - CSS
 - MYSQL
-
-## Somewhat know
-
-- [Python](https://www.python.org/)
-
-## Learning
-
-- [C++](https://learn.microsoft.com/en-us/cpp/overview/visual-cpp-in-visual-studio?view=msvc-170)
   
 # Socials?
 
