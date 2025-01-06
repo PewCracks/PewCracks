@@ -8,11 +8,12 @@ Lego scripts, demonstrations of how to crack / secure stuff
 
 # What do I know?
 
-- [Lua (4~ years)](https://www.lua.org/)
-- [PHP (3~ years)](https://www.php.net/)
-- [Node JS (3~ years)](https://nodejs.org/en)
-- [C# (2~ years)](https://dotnet.microsoft.com/en-us/languages/csharp)
-- [Python (newbie)](https://www.python.org/)
+- [Lua (since 2020~)](https://www.lua.org/)
+- [PHP (since 2021~)](https://www.php.net/)
+- [Node JS (since 2021~)](https://nodejs.org/en)
+- [TypeScript (since 2021~)](https://www.typescriptlang.org/)
+- [C# (since 2022~)](https://dotnet.microsoft.com/en-us/languages/csharp)
+- [Python (I spawned with the knowledge needed)](https://www.python.org/)
 - [C++ (i know how to read it 😭)](https://learn.microsoft.com/en-us/cpp/overview/visual-cpp-in-visual-studio?view=msvc-170)
 
 - HTML
