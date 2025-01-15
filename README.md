@@ -14,7 +14,7 @@ Lego scripts, demonstrations of how to crack / secure stuff
 - [TypeScript (since 2021~)](https://www.typescriptlang.org/)
 - [C# (since 2022~)](https://dotnet.microsoft.com/en-us/languages/csharp)
 - [Python (I spawned with the knowledge needed)](https://www.python.org/)
-- [C++ (i know how to read it 😭)](https://learn.microsoft.com/en-us/cpp/overview/visual-cpp-in-visual-studio?view=msvc-170)
+- [C++ (I know how to read it 😭)](https://learn.microsoft.com/en-us/cpp/overview/visual-cpp-in-visual-studio?view=msvc-170)
 
 - HTML
 - CSS
